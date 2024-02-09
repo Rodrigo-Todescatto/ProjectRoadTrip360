@@ -1,4 +1,4 @@
-To Do:
+In Progress:
 
 -Bypass "The Forza Horizon 2 servers aren't available at this moment. Try again later." for Online Road Trip
 
@@ -6,7 +6,6 @@ To Do:
 Already made: 
 
 -Clubs (only create)
-
 
 
 NOTE: THE PROJECT IS BEING TESTED IN NETPLAY XENIA CANARY SINCE I DON'T HAVE AN MODDED XBOX 360,IF ANYONE CAN TEST IT ON AN XBOX 360 WITH RGH/JTAG I THANK YOU VERY MUCH AND IT WOULD HELP A LOT IN THE DEVELOPMENT OF THE PROJECT.
