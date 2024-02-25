@@ -1,3 +1,8 @@
+ATTENTION!!!: It was discovered that the project most likely don't work on Xbox 360 because of Ttitle Update compatibility issues and i'm already fixing that issue.
+
+
+
+
 In Progress:
 
 -Bypass "The Forza Horizon 2 servers aren't available at this moment. Try again later." for Online Road Trip
